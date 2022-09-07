@@ -8,3 +8,6 @@
 | 2 | _Introduction to Data Science_ | **COP 2271** | 1PM - 1:50PM | 3 |
 | 3 | _Python for Data Analytics_ | **COP 2073** | 3:30PM - 4:45PM | 3 |
 | 4 | _Introduction to Computation and Programming_ | **ISC 2310** | 5PM - 5:50PM | 3 |
+
+#### B)
+![HW 01 Image](https://github.com/RGrant3734/Using-Markdown-9-7-2022/blob/main/DS%20HW%202%20image.png)
