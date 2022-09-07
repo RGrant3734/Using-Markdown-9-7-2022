@@ -1,6 +1,6 @@
 # Introduction to Data Science - HW 2
 ### Robert Grant - rgrant3734@floridapoly.edu
-## Problem 1
+# Problem 1
 #### A)
 | Course Order | Course Name | Course ID | Course Times | Credits |
 |:-------------|:------------|:-------------|:-------------|:-------------|
@@ -11,3 +11,7 @@
 
 #### B)
 ![HW 01 Image](https://github.com/RGrant3734/Using-Markdown-9-7-2022/blob/main/DS%20HW%202%20image.png)
+
+# Problem 2
+## Inroduction to Data Science
+* 
