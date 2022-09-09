@@ -14,4 +14,9 @@
 
 # Problem 2
 ## Inroduction to Data Science
-* 
+* R coding language
+* Git and Github
+## Intoduction to Computation and Programming
+* C programming language
+## Python for Data Analytics
+* Python Programming Language
