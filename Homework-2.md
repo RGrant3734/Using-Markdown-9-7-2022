@@ -15,7 +15,7 @@
 # Problem 2
 ## Inroduction to Data Science
 * R coding language
-* Git and Github
+* [Git and Github](https://github.com/RGrant3734/practice-repo/blob/main/flpoly_student.md)
 ## Intoduction to Computation and Programming
 * C programming language
 ## Python for Data Analytics
