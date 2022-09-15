@@ -1,5 +1,8 @@
 # Introduction to Data Science - HW 2
 ### Robert Grant - rgrant3734@floridapoly.edu
+```{r}
+library(stringr)
+```
 # Problem 1
 #### A)
 | Course Order | Course Name | Course ID | Course Times | Credits |
@@ -16,8 +19,46 @@
 ## Inroduction to Data Science
 * R coding language
 * [Git and Github](https://github.com/RGrant3734/practice-repo/blob/main/flpoly_student.md)
-## Intoduction to Computation and Programming
+## Introduction to Computation and Programming
 * C programming language
 ## Python for Data Analytics
 * Python Programming Language
+
+# Problem 3
+
+```{r}
+my_name <- 'Robert'
+name_length <- str_length(my_name)
+```
+```{r}
+paste("My name is", my_name)
+paste(my_name, "has", name_length, "letters in it")
+```
+
+```{r}
+if (exp(pi) == pi^exp(1)){
+  paste("They are the same")
+  } else if (exp(pi) > pi^exp(1)){
+    paste("e to the power pi is greater")
+  } else {
+    paste("pi to the power e is greater")
+}
+```
+
+```{r}
+v <- 31:86
+length(v)
+```
+```{r}
+seq(-5, 10, 0.5)
+```
+## Problem 4
+
+```{r}
+feet <- readline(prompt = "Enter the ammount of feet:")
+inches <- readline(prompt = "Enter the ammount of inches:")
+imperial_to_metric <- function(feet, inches){
+  meters <- feet * 0.3048 + inches * 0.0254
+}
+```
 
